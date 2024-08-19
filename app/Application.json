@@ -1,0 +1,10 @@
+{
+  "accessRoles": [],
+  "applicationId": "77f79cd4-ae9c-4d4e-84cc-5dce89b369b4",
+  "applicationName": "new_mr_gc",
+  "applicationState": "DRAFT",
+  "defaultBranch": "develop",
+  "gitUrl": "https://github.com/michaelraynak/git_connected_test",
+  "icon": "LogoIconOnlyAdvancedQuotaPlanningComponent",
+  "sections": "[]"
+}
